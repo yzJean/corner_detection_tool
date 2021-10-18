@@ -1,1 +1,1 @@
-b.txt is on master
+Update b.txt after merging master to feature
