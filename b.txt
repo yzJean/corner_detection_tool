@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 trying merge feature with less commits into merge with more commits
+=======
+trying to cherry-pick...
+>>>>>>> feature
