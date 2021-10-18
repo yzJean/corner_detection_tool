@@ -1,1 +1,2 @@
+Merged master to feature
 Second commit after merging feature onto master
